@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Effective Date: [Today's Date]
+Effective Date: 3/29/2026
 
 Reelionaire ("we", "our", or "us") respects your privacy.
 
@@ -35,4 +35,4 @@ You may stop using the app at any time. Future updates may include account delet
 ## Contact
 
 If you have any questions, you can contact us at:
-[Your Email]
+Mail@alcalylo.com
